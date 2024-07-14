@@ -1,19 +1,54 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of C++ with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is C++?",
+      "answers": ["Lang", "Script", "Markup"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is 'int'?",
+      "answers": ["Number", "String", "Char"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is 'cout'?",
+      "answers": ["Output", "Input", "Error"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'cin'?",
+      "answers": ["Input", "Output", "Error"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'class'?",
+      "answers": ["OOP", "Func", "Var"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'include'?",
+      "answers": ["Header", "Footer", "Body"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'void'?",
+      "answers": ["No ret", "Return", "Null"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'main'?",
+      "answers": ["Entry", "Exit", "Loop"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'new'?",
+      "answers": ["Alloc", "Delete", "Copy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is 'delete'?",
+      "answers": ["Free", "Alloc", "Copy"],
       "correctAnswerIndex": 0
     }
   ]
